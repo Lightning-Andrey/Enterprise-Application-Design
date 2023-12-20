@@ -1,0 +1,15 @@
+.form {
+    padding: 15px;
+    width: 500px;
+    border: 2px solid rgb(210, 210, 210);
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
