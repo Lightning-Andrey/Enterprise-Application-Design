@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ships>
+    <ship>
+        <type>Cruiser</type>
+        <mass>25000</mass>
+        <crew>780</crew>
+    </ship>
+    <ship>
+        <type>Battleship</type>
+        <mass>48000</mass>
+        <crew>2500</crew>
+    </ship>
+    <ship>
+        <type>Aircraft carrier</type>
+        <mass>98425</mass>
+        <crew>2700</crew>
+    </ship>
+    <ship>
+        <type>Destroyer</type>
+        <mass>1540</mass>
+        <crew>135</crew>
+    </ship>
+</ships>
